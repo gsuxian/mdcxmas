@@ -1,0 +1,23 @@
+{
+    "name": "mdcxmas",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/gsuxian/mdcxmas.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+      "url": "https://github.com/gsuxian/mdcxmas/issues"
+    },
+    "homepage": "https://github.com/gsuxian/mdcxmas#readme",
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
+  
